@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - Investigación, Redacción
 - Programación
 - Desarrollo Web
-- Inteligencia Artificial, Machine Learning, Deep Learning y Visión por Computador
+- Inteligencia Artificial, Machine Learning, Deep Learning, Procesamiento Natural del Lenguaje y Visión por Computador
 - Sistemas embebidos y microcontroladores
 - Electrónica
 - Bases de Datos
