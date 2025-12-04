@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  Soy un 🎓ingeniero electrónico con interés y conocimientos en <strong>[Inteligencia Artificial, Desarrollo de software]</strong>, siempre estoy en busca de aprender nuevos conocimientos y tecnologías.
+  Soy un 🎓ingeniero electrónico con experiencia, interés y conocimientos en <strong>[Inteligencia Artificial, Desarrollo de software, investigación]</strong>, siempre estoy en busca de aprender nuevos conocimientos y tecnologías.
 </p>
 
 <h2 align="center">🚀 Habilidades y Conocimientos</h2>
