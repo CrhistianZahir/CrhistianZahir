@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">¡Hola, soy [Crhistian Zahir Diaz Garcia]! 👋</h1>
+<h1 align="center">¡Hola, soy Crhistian Zahir! 👋</h1>
 
 <!--
 <p align="center">
@@ -23,21 +23,18 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<p align="center">
-  Soy un 🎓ingeniero electrónico con experiencia, interés y conocimientos en <strong>[Inteligencia Artificial, Desarrollo de software, investigación]</strong>, siempre estoy en busca de aprender nuevos conocimientos y tecnologías.
+<p align="justify">
+  Ingeniero Electrónico con Certificación Profesional en Ingeniería de Inteligencia Artificial de IBM, con experiencia en inteligencia artificial,
+visión por computador, investigación y educación. Sólida base en programación Python para el desarrollo y
+despliegue de soluciones innovadoras. Experiencia complementaria en la gestión de proyectos tecnológicos y el
+liderazgo de iniciativas de innovación educativa con IA. Busco aplicar modelos avanzados y técnicas de machine
+learning para resolver problemas.
 </p>
 
-<h2 align="center">🚀 Habilidades y Conocimientos</h2>
-- Investigación, Redacción
-- Programación
-- Desarrollo Web
-- Inteligencia Artificial, Machine Learning, Deep Learning, Procesamiento Natural del Lenguaje y Visión por Computador
-- Sistemas embebidos y microcontroladores
-- Electrónica
-- Bases de Datos
-- Etiquetado de datos
-- Matemáticas, Calculo Diferencial, Integral, Vectorial y Ecuaciones Diferenciales
-- Resolución de problemas.
+- Experiencia en Inteligencia Artificial, Visión por computador e investigación.
+- Experiencia realizando documentación de software.
+- Certificado profesional en Ingeniería de IA por IBM.
+- Dominio de las principales herramientas de IA y Data Science.
 
 <h2 align="center">✅ Lenguajes de Programación</h2>
 
