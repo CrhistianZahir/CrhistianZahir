@@ -35,6 +35,7 @@ learning para resolver problemas.
 - Experiencia realizando documentación de software.
 - Certificado profesional en Ingeniería de IA por IBM.
 - Dominio de las principales herramientas de IA y Data Science.
+- Reconocimiento de tesis laureada (5.0/5.0) en mi proyecto de grado estimación de la contaminación por residuos empleando visión artificial.
 
 <h2 align="center">✅ Lenguajes de Programación</h2>
 
